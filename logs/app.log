@@ -1,0 +1,10 @@
+{"time": "2025-02-20 16:28:24,163", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/address"}
+{"time": "2025-02-20 16:28:24,164", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-02-20 16:28:24,232", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-02-20 16:28:24,234", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-02-20 16:36:09,029", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/"}
+{"time": "2025-02-20 16:36:09,030", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-02-20 16:36:09,164", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-02-20 16:36:09,164", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-02-20 16:37:04,730", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/address"}
+{"time": "2025-02-20 16:37:04,731", "level": "INFO", "message": "Outgoing response: 200"}
