@@ -4,9 +4,13 @@ This is a simple **FastAPI backend** that exposes an API endpoint to return an a
 
 ## Features That Make It Production-Grade
 Environment Variables Support: Uses .env file to store configuration values securely.
+
 Logging: Implements structured logging for monitoring requests and responses.
+
 Modular Code Structure: Organized into separate files (main.py, config.py) for maintainability.
+
 Dependency Management: Uses requirements.txt to ensure consistent package installation.
+
 Auto-reloading Server: Uses uvicorn --reload for efficient development. 
 
 ## To ensure production readiness, the following resources were referenced:
