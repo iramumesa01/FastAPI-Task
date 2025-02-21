@@ -38,7 +38,11 @@ API: http://127.0.0.1:8000/address
 
 ## Example API Response
 {
+
   "street": "123 Main Street",
+  
   "city": "New York",
+  
   "postcode": "12345"
+  
 }
