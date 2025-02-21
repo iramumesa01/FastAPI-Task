@@ -11,8 +11,11 @@ Auto-reloading Server: Uses uvicorn --reload for efficient development.
 
 ## To ensure production readiness, the following resources were referenced:
 https://devdocs.io/fastapi/
+
 https://github.com/zhanymkanov/fastapi-best-practices
+
 https://12factor.net/
+
 https://docs.python.org/3/howto/logging.html
 
 ##  Create a virtual environment & install dependencies
