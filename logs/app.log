@@ -8,3 +8,39 @@
 {"time": "2025-02-20 16:36:09,164", "level": "INFO", "message": "Outgoing response: 404"}
 {"time": "2025-02-20 16:37:04,730", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/address"}
 {"time": "2025-02-20 16:37:04,731", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-02-21 12:21:50,548", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/"}
+{"time": "2025-02-21 12:21:50,549", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-02-21 12:21:50,725", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-02-21 12:21:50,726", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-02-21 12:22:10,258", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/docs"}
+{"time": "2025-02-21 12:22:10,259", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-02-21 12:22:10,678", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/openapi.json"}
+{"time": "2025-02-21 12:22:10,690", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-02-21 12:22:34,850", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/"}
+{"time": "2025-02-21 12:22:34,850", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-02-21 12:22:35,074", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-02-21 12:22:35,075", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-02-21 12:22:43,263", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/address"}
+{"time": "2025-02-21 12:22:43,264", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-02-21 12:22:43,379", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-02-21 12:22:43,379", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-03-07 00:26:56,795", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/"}
+{"time": "2025-03-07 00:26:56,796", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-03-07 00:26:56,918", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-03-07 00:26:56,918", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-03-07 00:27:07,498", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/address"}
+{"time": "2025-03-07 00:27:07,499", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-03-07 00:27:07,568", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-03-07 00:27:07,569", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-03-07 00:27:16,808", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/docs"}
+{"time": "2025-03-07 00:27:16,809", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-03-07 00:27:17,234", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/openapi.json"}
+{"time": "2025-03-07 00:27:17,249", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-03-07 01:44:17,838", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/"}
+{"time": "2025-03-07 01:44:17,841", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-03-07 01:44:17,973", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-03-07 01:44:17,974", "level": "INFO", "message": "Outgoing response: 404"}
+{"time": "2025-03-07 01:44:24,362", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/address"}
+{"time": "2025-03-07 01:44:24,365", "level": "INFO", "message": "Outgoing response: 200"}
+{"time": "2025-03-07 01:44:24,427", "level": "INFO", "message": "Incoming request: GET http://127.0.0.1:8000/favicon.ico"}
+{"time": "2025-03-07 01:44:24,427", "level": "INFO", "message": "Outgoing response: 404"}
