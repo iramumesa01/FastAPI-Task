@@ -1,7 +1,9 @@
 import os
 import logging
 from fastapi import FastAPI, Request
-from app.config import POSTCODE
+from app.core.config import POSTCODE 
+from app.middleware.logging import log_requests
+from app.routers.address import router as address_router
 
 os.makedirs("logs", exist_ok=True)
 
@@ -14,19 +16,6 @@ logging.basicConfig(
 
 app = FastAPI()
 
-# Middleware to log requests and responses
-@app.middleware("http")
-async def log_requests(request: Request, call_next):
-    logging.info(f"Incoming request: {request.method} {request.url}")
-    response = await call_next(request)
-    logging.info(f"Outgoing response: {response.status_code}")
-    return response
+app.middleware("http")(log_requests)
 
-# API route to return address
-@app.get("/address")
-async def get_address():
-    return {
-        "street": "123 Main St",
-        "city": "Sample City",
-        "postcode": POSTCODE
-    }
+app.include_router(address_router)
