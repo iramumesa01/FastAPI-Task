@@ -6,3 +6,5 @@ async def log_requests(request: Request, call_next):
     response = await call_next(request)
     logging.info(f"Outgoing response: {response.status_code}")
     return response
+
+
